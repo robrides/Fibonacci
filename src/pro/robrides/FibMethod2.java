@@ -2,6 +2,8 @@ package pro.robrides;
 
 public class FibMethod2 {
 
+	// Incredibly inefficient solution for Fibonacci
+	
 	public static long fibonacci(int n) {
 		System.out.println(n);
 		if (n <= 1) {
